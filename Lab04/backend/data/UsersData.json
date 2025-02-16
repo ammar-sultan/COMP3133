@@ -1,0 +1,222 @@
+[
+  {
+    "name": "Leanne Graham",
+    "username": "Bret",
+    "email": "leanne.graham@example.com",
+    "address": {
+      "street": "Kulas Light",
+      "suite": "Apt. 556",
+      "city": "Gwenborough",
+      "zipcode": "92998-3874",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "phone": "1-770-736-8031",
+    "website": "https://leannegraham.com",
+    "company": {
+      "name": "Romaguera-Crona",
+      "catchPhrase": "Innovative multi-layered solutions",
+      "bs": "harness next-gen digital markets"
+    }
+  },
+  {
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "ervin.howell@example.com",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "1-901-692-6593",
+    "website": "https://ervinhowell.com",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Strategic and scalable business models",
+      "bs": "optimize global supply chains"
+    }
+  },
+  {
+    "name": "Clementine Bauch",
+    "username": "Samantha",
+    "email": "clementine.bauch@example.com",
+    "address": {
+      "street": "Douglas Extension",
+      "suite": "Suite 847",
+      "city": "McKenziehaven",
+      "zipcode": "59590-4157",
+      "geo": {
+        "lat": "-68.6102",
+        "lng": "-47.0653"
+      }
+    },
+    "phone": "1-463-123-4447",
+    "website": "https://clementinebauch.com",
+    "company": {
+      "name": "Romaguera-Jacobson",
+      "catchPhrase": "Seamless user experience solutions",
+      "bs": "revolutionize digital interactions"
+    }
+  },
+  {
+    "name": "Patricia Lebsack",
+    "username": "Karianne",
+    "email": "patricia.lebsack@example.com",
+    "address": {
+      "street": "Hoeger Mall",
+      "suite": "Apt. 692",
+      "city": "South Elvis",
+      "zipcode": "53919-4257",
+      "geo": {
+        "lat": "29.4572",
+        "lng": "-164.2990"
+      }
+    },
+    "phone": "1-493-170-9623",
+    "website": "https://patricialebsack.com",
+    "company": {
+      "name": "Robel-Corkery",
+      "catchPhrase": "Efficient multi-tiered solutions",
+      "bs": "innovate web-driven strategies"
+    }
+  },
+  {
+    "name": "Chelsey Dietrich",
+    "username": "Kamren",
+    "email": "chelsey.dietrich@example.com",
+    "address": {
+      "street": "Skiles Walks",
+      "suite": "Suite 351",
+      "city": "Roscoeview",
+      "zipcode": "33263-1212",
+      "geo": {
+        "lat": "-31.8129",
+        "lng": "62.5342"
+      }
+    },
+    "phone": "1-254-954-1289",
+    "website": "https://chelseydietrich.com",
+    "company": {
+      "name": "Keebler LLC",
+      "catchPhrase": "User-centric and reliable infrastructure",
+      "bs": "transform enterprise systems"
+    }
+  },
+  {
+    "name": "Dennis Schulist",
+    "username": "Leopoldo_Corkery",
+    "email": "dennis.schulist@example.com",
+    "address": {
+      "street": "Norberto Crossing",
+      "suite": "Apt. 950",
+      "city": "South Christy",
+      "zipcode": "23505-1337",
+      "geo": {
+        "lat": "-71.4197",
+        "lng": "71.7478"
+      }
+    },
+    "phone": "1-477-935-8478",
+    "website": "https://dennisschulist.com",
+    "company": {
+      "name": "Considine-Lockman",
+      "catchPhrase": "Seamlessly integrated platforms",
+      "bs": "drive digital transformation"
+    }
+  },
+  {
+    "name": "Kurtis Weissnat",
+    "username": "Elwyn.Skiles",
+    "email": "kurtis.weissnat@example.com",
+    "address": {
+      "street": "Rex Trail",
+      "suite": "Suite 280",
+      "city": "Howemouth",
+      "zipcode": "58804-1099",
+      "geo": {
+        "lat": "24.8918",
+        "lng": "21.8984"
+      }
+    },
+    "phone": "1-210-067-6132",
+    "website": "https://kurtisweissnat.com",
+    "company": {
+      "name": "Johns Group",
+      "catchPhrase": "Future-ready multimedia solutions",
+      "bs": "scale enterprise e-commerce"
+    }
+  },
+  {
+    "name": "Nicholas Runolfsdottir",
+    "username": "Maxime_Nienow",
+    "email": "nicholas.runolfsdottir@example.com",
+    "address": {
+      "street": "Ellsworth Summit",
+      "suite": "Suite 729",
+      "city": "Aliyaview",
+      "zipcode": "45169-3333",
+      "geo": {
+        "lat": "-14.3990",
+        "lng": "-120.7677"
+      }
+    },
+    "phone": "1-586-493-6943",
+    "website": "https://nicholasrunolfsdottir.com",
+    "company": {
+      "name": "Abernathy Group",
+      "catchPhrase": "Scalable and adaptive frameworks",
+      "bs": "empower digital ecosystems"
+    }
+  },
+  {
+    "name": "Glenna Reichert",
+    "username": "Delphine",
+    "email": "glenna.reichert@example.com",
+    "address": {
+      "street": "Dayna Park",
+      "suite": "Suite 449",
+      "city": "Bartholomebury",
+      "zipcode": "76495-3109",
+      "geo": {
+        "lat": "24.6463",
+        "lng": "-168.8889"
+      }
+    },
+    "phone": "1-775-976-6794",
+    "website": "https://glennareichert.com",
+    "company": {
+      "name": "Yost and Sons",
+      "catchPhrase": "Context-aware digital transformation",
+      "bs": "enable real-time optimization"
+    }
+  },
+  {
+    "name": "Clementina DuBuque",
+    "username": "Moriah.Stanton",
+    "email": "clementina.dubuque@example.com",
+    "address": {
+      "street": "Kattie Turnpike",
+      "suite": "Suite 198",
+      "city": "Lebsackbury",
+      "zipcode": "31428-2261",
+      "geo": {
+        "lat": "-38.2386",
+        "lng": "57.2232"
+      }
+    },
+    "phone": "1-924-648-3804",
+    "website": "https://clementinadubuque.com",
+    "company": {
+      "name": "Hoeger LLC",
+      "catchPhrase": "Empowering next-gen industries",
+      "bs": "optimize global innovation"
+    }
+  }
+]
