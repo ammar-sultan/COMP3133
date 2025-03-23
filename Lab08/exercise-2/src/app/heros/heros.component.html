@@ -1,0 +1,9 @@
+<!-- src/app/heros/heros.component.html -->
+<h2>My Heroes</h2>
+<ul class="heroes">
+  <li *ngFor="let hero of heroes" (click)="onSelect(hero)">
+    {{ hero.name | removeSpaces }}
+  </li>
+</ul>
+<!-- Use the nested hero-detail component -->
+<app-hero-detail [hero]="selectedHero"></app-hero-detail>
